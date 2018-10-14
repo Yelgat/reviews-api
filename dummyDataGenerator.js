@@ -43,8 +43,11 @@ function getWord(len = 5) {
   return output;
 }
 
-function getParagraph(wc = 150) {
+function getParagraph(wc) {
   let words = [];
+  if (wc == undefined) {
+    wc = Math.floor(Math.random() * 140) + 10;
+  }
   for (let i = 0; i < wc; i++) {
     words.push(getWord(Math.random() * 8));
   }

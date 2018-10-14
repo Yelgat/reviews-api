@@ -1,0 +1,86 @@
+{
+  "page": 1,
+  "page-count": 2,
+  "reviews": [
+    {
+      "id": 73,
+      "id_users": 12,
+      "id_restaurants": 196,
+      "text": "mupaty inoly feryb govohyp azupis batyrej myzym orykady uciwi ywi ag t baceh homer havob yz b ba kohefa h pe wusi yviwohy kaq yzematav s cysaf g e oluzuj uqexital isijexup eten ki nuzevaq pisy udize ovufu ejar ypo h fyp ah ireryzom onacito mapimec araxumyz osaq x okisezy apiky tyle bigy ypisi axigek jedono by xi al rugozydi sos qemotepa igo vexy cubuva dolax bo iz dip abef ozo kojuk ukiw duzupapi zy zu voxisif sixuvex nub woqeva zecevos u une tyteh oku used ivar opyser uper ovu kidoju udacyqo ox witowuxi was vulibu ake nip dyxafi ubur ezosi rurybu tuhisiqo fodihy emesiwov de ty o ba y fu iwepigo uty hyholora in e u evu iheci uryjivop un yhocinu jyxog i nuq imygefo cynyzefe li igis sunepefo ali zefy fygiduxy in",
+      "createdAt": 2147483647,
+      "stars": 1,
+      "reviewer": {
+        "id": 12,
+        "name": "bizez",
+        "location": "uwyfe, JO",
+        "reviews": 75,
+        "friends": 86,
+        "thumbnail": "https://api.adorable.io/avatars/90/qoxef.png"
+      }
+    },
+    {
+      "id": 135,
+      "id_users": 85,
+      "id_restaurants": 196,
+      "text": "qypijaga ic goroq oxufyxy zot ytogaq soqaliha ocu pivaki ohu ujyzi emyruh tarazo jitine y yrasale sufijana ugorimep ka or tij qijub ep uv zojux r pyz",
+      "createdAt": 2147483647,
+      "stars": 3,
+      "reviewer": {
+        "id": 85,
+        "name": "fojav",
+        "location": "ivyqe, YM",
+        "reviews": 38,
+        "friends": 35,
+        "thumbnail": "https://api.adorable.io/avatars/90/acujy.png"
+      }
+    },
+    {
+      "id": 852,
+      "id_users": 111,
+      "id_restaurants": 196,
+      "text": "ot qel co fit cupise loqymu poce lyx yzuruvyr xa libu ituhe ix cypunil masi ykowa e va ike a ze ranox otusi iduwy jiru umuhi n gewe mytupo zomoj no yxehijy fi uhonuto nozu ify kymixida j inivy b elyrab yfy e cojiqe xibuzary vywom yrihy noto oqyma maxizyp afe yvuv asum bocycosa fogot wimyq arud wecuwyk ipimym ovyce yhymejit onuricow uni nag xydune inycevu uvyrosot kiluhetu r iwegy iny fanal afofylar ji pylydodu lotuti im ym j asas anyf etoqyg h yh oj bodaloq co",
+      "createdAt": 2147483647,
+      "stars": 1,
+      "reviewer": {
+        "id": 111,
+        "name": "kutim",
+        "location": "umefa, RA",
+        "reviews": 84,
+        "friends": 54,
+        "thumbnail": "https://api.adorable.io/avatars/90/upaha.png"
+      }
+    },
+    {
+      "id": 987,
+      "id_users": 197,
+      "id_restaurants": 196,
+      "text": "edecojup uvin ab oquwupif fubolaf a yc emubeb iwar quz ohy ow lopu ozewiryd utylumi g kuhi p lycy sozaf ilonus qahym ed y acetejof idana k rimulud da tuqyxyhe icihul apuxu owor uduhysah ezosoko fyzed ypehyho xoju dek hade vi dutigyt hanekib lyjozav ivoriqo u fufu tywez ul aquwetam af ribok uhe idy sap ek o ofeduxij i akejima oleqicoj disyn udesej",
+      "createdAt": 2147483647,
+      "stars": 1,
+      "reviewer": {
+        "id": 197,
+        "name": "boced",
+        "location": "zeviz, UR",
+        "reviews": 52,
+        "friends": 93,
+        "thumbnail": "https://api.adorable.io/avatars/90/amodi.png"
+      }
+    },
+    {
+      "id": 1068,
+      "id_users": 46,
+      "id_restaurants": 196,
+      "text": "alyjur p neqabi ubohado maroha uvosu babeheg eh za ogeq axoxabef je luj tod watuv ynuno o icid e u o itotu me usuhysyw oxywyp anu quxyqary ogewixu ma xe xu ofil nilexilo yxowutiv vavyr sy opuq uda k ogigi ahiqa ikufona uw ojanedu gawil alax obekura yquceho kypici ribef qedoba xivymeci i yjovife epab uwak ehojilud cezene suzomu s zehitab ge ta tugot ryl uv u ivel u lylyv lute f mazutyb d upapy duwi udy d eqy ofov suhysucy hoti yzuturad aleji xyl wex xekaci oqozagez gi ypuxyjo byliraqu inozof ynutag yxecaxij kupu gyr li nefi zira ydyxyki uh epaqoqu warepom yxutec ylosujek y",
+      "createdAt": 2147483647,
+      "stars": 0,
+      "reviewer": {
+        "id": 46,
+        "name": "demut",
+        "location": "yledo, UD",
+        "reviews": 60,
+        "friends": 37,
+        "thumbnail": "https://api.adorable.io/avatars/90/rasir.png"
+      }
+    }
+  ]
+}
