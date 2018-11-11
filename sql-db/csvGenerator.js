@@ -40,8 +40,8 @@ output = '';
 for (let i = 0; i < 225; i++) {
   output += getWord() + '\t';
   output += `${getWord()}, ${getWord().substring(0,2).toUpperCase()}\t`;
-  output += Math.floor(Math.random() * 100) + '\t';
-  output += Math.floor(Math.random() * 100) + '\t';
+  output += 0 + '\t';
+  output += 0 + '\t';
   output += `https://api.adorable.io/avatars/90/${getWord()}.png\n`;
 }
 fs.writeFile('./users.csv',output,(err)=>{
